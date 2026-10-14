@@ -167,3 +167,5 @@ Dies ist eine **lokale Einzelbenutzer-Anwendung**. Verschiedene Browser am selbe
 Dateispeicherung ist für das Uniprojekt transparent und einfach. Sie garantiert allein keine Skalierbarkeit: Der Datenbestand wird im Speicher gehalten und bei Änderungen vollständig geschrieben. Für viele Nutzer, sehr große Bestände oder mehrere Server ersetzt Person 1 später die Persistenzschicht durch eine Datenbank; Frontend und reine Lernfunktionen können dabei weitgehend bleiben. Ein öffentlich erreichbarer Mehrbenutzerbetrieb benötigt zusätzlich Benutzerkonten und Zugriffsrechte. Dieses Paket setzt absichtlich die geforderte lokale JSON-/CSV-Architektur um und enthält keine Cloud-Bereitstellung.
 
 Die PDF-Anforderung „mindestens 80 % erfolgreicher Erstnutzer“ muss noch mit echten Testpersonen geprüft werden. Der beiliegende Abnahmeplan unterscheidet diese offene Usability-Messung von den technischen Prüfungen.
+
+<!-- GitHub-Push-Test für die mündliche Prüfung -->
