@@ -120,8 +120,8 @@ main { width: 100%; max-width: 1280px; padding: 12px var(--page-pad) 48px; margi
 .stat:nth-child(2) strong { color: #B45309; }
 .stat:nth-child(3) strong { color: #047857; }
 .stat small { display: block; font-size: .7rem; font-weight: 400; letter-spacing: 0; margin-top: 6px; color: var(--text-muted); }
-/* Der nächste Lernschritt als grünes Poster. Dekoration bleibt rein visuell. */
-.focus-banner { position: relative; display: grid; grid-template-columns: minmax(0,1.6fr) minmax(180px,1fr); gap: 32px; padding: 32px 40px; background: var(--secondary); border-radius: var(--radius); margin-bottom: 40px; overflow: hidden; }
+/* Der nächste Lernschritt als blaues Poster. Dekoration bleibt rein visuell. */
+.focus-banner { position: relative; display: grid; grid-template-columns: minmax(0,1.6fr) minmax(180px,1fr); gap: 32px; padding: 32px 40px; background: var(--primary); border-radius: var(--radius); margin-bottom: 40px; overflow: hidden; }
 .focus-copy { position: relative; z-index: 1; }
 .focus-tag { display: flex; align-items: center; gap: 8px; margin-bottom: 12px; color: #052E21; }
 .focus-tag .icon { width: 16px; height: 16px; }
